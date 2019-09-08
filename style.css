@@ -35,7 +35,7 @@ hr {
     margin-bottom: 30px;
 }
 
-button {
+.btn {
     font-weight: 700;
     text-transform: uppercase;
     border: 1px solid transparent;
@@ -45,7 +45,7 @@ button {
     background-color: #F05F44;
 }
 
-button:hover {
+.btn:hover {
     color: #212529;
     cursor: pointer;
     background-color: #ee4b08;
